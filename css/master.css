@@ -4,3 +4,7 @@ article[class^="caja"]{
   height: 220px;
   width: 400px;
 }
+
+.caja1{
+  margin: 50px 20px 50px 20px
+}
